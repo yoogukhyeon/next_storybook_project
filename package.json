@@ -11,18 +11,23 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
+    "@next/bundle-analyzer": "^13.4.11",
     "@types/babel__core": "^7.20.1",
     "@types/node": "^20.4.2",
     "@types/react": "18.2.15",
     "@types/react-dom": "18.2.7",
     "@types/styled-components": "^5.1.26",
+    "canvas": "^2.11.2",
     "eslint": "8.45.0",
     "eslint-config-next": "13.4.10",
+    "konva": "^9.2.0",
     "next": "13.4.10",
     "node-fetch": "2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-konva": "^18.2.10",
     "styled-components": "^6.0.4",
+    "styled-reset": "^4.5.1",
     "typescript": "5.1.6"
   },
   "devDependencies": {
